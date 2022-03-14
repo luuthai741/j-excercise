@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/commons-text-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thai Luu/Downloads/opencsv-4.1.jar" sourcepath="C:/Users/Thai Luu/Downloads/opencsv-4.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
